@@ -1,3 +1,8 @@
+# Notes
+--------
+- Progressive Notes ~
+- Simplified theory and concepts for better understanding
+
 ## Linux Basics
 - [ ]  Introduction to Linux
 - [ ]  Command-Line Basics
