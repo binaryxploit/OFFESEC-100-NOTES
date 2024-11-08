@@ -1,11 +1,9 @@
-```bash
+```md
 # Summary
 - Linux is the core part of an operating system (the kernel), not a complete operating system on its own.
 - Different Linux distributions serve different purposes, from general use to specialized tasks like security or server management.
 - Kali Linux is a security-focused distribution, ideal for penetration testing and cybersecurity tasks, and comes with a lot of pre-installed security tools.
 
-
-# Introduction to Linux
 --------------------------------------------------------------------------------------------------------------------------------------------------
 # The History of Linux
 - The Linux operating system began when a Finnish student, Linus Torvalds, wanted to create his own version of an operating system. He started working on the Linux kernel, the core part of the system, which helps manage hardware, memory, tasks, and communications between different parts of the computer.
