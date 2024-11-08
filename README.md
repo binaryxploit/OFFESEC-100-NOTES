@@ -1,6 +1,7 @@
-# PEN-100 NOTES - B!N4RYXPL01T
+# SECURITY FUNDAMENTALS NOTES - B!N4RYXPL01T
 - Progressive Notes ~
 - Simplified theory and concepts for better understanding
+- Aggregated notes from learning `PEN-100` Offensive Security
 
 ## Linux Basics
 - [x]  Introduction to Linux
