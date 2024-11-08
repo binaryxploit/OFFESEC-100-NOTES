@@ -3,7 +3,7 @@
 - Simplified theory and concepts for better understanding
 
 ## Linux Basics
-- [ ]  Introduction to Linux
+- [x]  Introduction to Linux
 - [ ]  Command-Line Basics
 - [ ]  Manuals and Help
 - [ ]  The Linux Filesystem
