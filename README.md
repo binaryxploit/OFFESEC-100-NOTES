@@ -1,5 +1,4 @@
-# Notes
---------
+# PEN-100 NOTES - B!N4RYXPL01T
 - Progressive Notes ~
 - Simplified theory and concepts for better understanding
 
