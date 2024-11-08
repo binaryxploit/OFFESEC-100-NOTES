@@ -9,10 +9,10 @@ To open a terminal in Kali Linux, click the black icon in the top-left corner of
 This is your command-line prompt.
 ### Shells
 The "command-line" is also called a shell. A shell is a program that interprets your commands. There are different types of shells in Linux, such as:
-- sh: The original shell.
-- bash: An improved version of sh, which is the most common shell in Linux.
-- ksh: A shell that adds extra features like better loops.
-- zsh: Another shell with more features, often used by advanced users.
+- `sh`: The original shell.
+- `bash`: An improved version of sh, which is the most common shell in Linux.
+- `ksh`: A shell that adds extra features like better loops.
+- `zsh`: Another shell with more features, often used by advanced users.
 ### Filesystem Structure
 In Linux, there are no drive letters like on Windows (e.g., C:, D:). Instead, everything starts from the root directory (`/`). All files, folders, and devices are connected under this root directory.
 - Example: `/home/kali/Documents` means the "Documents" folder inside the "kali" user folder, which is inside the "home" folder, starting from the root (`/`).
