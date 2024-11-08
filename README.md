@@ -4,7 +4,7 @@
 
 ## Linux Basics
 - [x]  Introduction to Linux
-- [ ]  Command-Line Basics
+- [x]  Command-Line Basics
 - [ ]  Manuals and Help
 - [ ]  The Linux Filesystem
 - [ ]  The Environment
